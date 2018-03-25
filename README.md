@@ -1,5 +1,4 @@
 # ICMP Check
-[![Latest Stable Version](https://poser.pugx.org/cmdrsharp/icmp-check/v/stable)](https://packagist.org/packages/cmdrsharp/icmp-check)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 A simple Bash script to run ICMP Checks toward an IP at an interval, logging the results.
